@@ -1,0 +1,40 @@
+{
+ "onibus_ref_caixa": [
+  1251.0579833984375,
+  551.002685546875,
+  1512.3125,
+  725.7949829101562
+ ],
+ "variantes": [
+  {
+   "variante": "original",
+   "conf_onibus": 0.8621183633804321,
+   "n_025": 20,
+   "n_050": 14
+  },
+  {
+   "variante": "resolu\u00e7\u00e3o maior (1280)",
+   "conf_onibus": 0.9245978593826294,
+   "n_025": 45,
+   "n_050": 28
+  },
+  {
+   "variante": "10% mais claro",
+   "conf_onibus": 0.8585420250892639,
+   "n_025": 20,
+   "n_050": 14
+  },
+  {
+   "variante": "espelhada",
+   "conf_onibus": 0.8358875513076782,
+   "n_025": 22,
+   "n_050": 15
+  },
+  {
+   "variante": "JPEG comprimido",
+   "conf_onibus": 0.8577015995979309,
+   "n_025": 20,
+   "n_050": 13
+  }
+ ]
+}

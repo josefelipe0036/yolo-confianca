@@ -1,0 +1,5 @@
+original                 ônibus: 0.862   objetos conf>=0.25: 20   conf>=0.5: 14
+resolução maior (1280)   ônibus: 0.925   objetos conf>=0.25: 45   conf>=0.5: 28
+10% mais claro           ônibus: 0.859   objetos conf>=0.25: 20   conf>=0.5: 14
+espelhada                ônibus: 0.836   objetos conf>=0.25: 22   conf>=0.5: 15
+JPEG comprimido          ônibus: 0.858   objetos conf>=0.25: 20   conf>=0.5: 13
